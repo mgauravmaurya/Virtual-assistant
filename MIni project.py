@@ -1,4 +1,3 @@
-from enum import IntFlag
 import pywhatkit as pwk
 import pyttsx3
 import speech_recognition as sr
@@ -39,8 +38,6 @@ def phonebook(action):
     Aneesh=8417999600
     Dev=7880715118
     Dopa=6387366412
-    xyz=7521015096
-    abcd=8076989529
     return action
 
 
